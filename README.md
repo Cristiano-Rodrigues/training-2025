@@ -40,6 +40,12 @@ Quais conteúdos precisamos dominar:
 
 - [Math](https://github.com/ashutoshjv661/maths-cp-syllabus)
 
+## Outros
+
+### Algoritmos, estrutura de dados e outros
+
+- [Repositório de programação competitiva](https://github.com/UnBalloon/programacao-competitiva)
+
 # Treino
 
 ## Equipa
