@@ -29,6 +29,7 @@ Quais conteúdos precisamos dominar:
 - [Algorithms + Data Structures = Programs](./books/(Automatic%20Computation)%20Niklaus%20Wirth%20-%20Algorithms%20+%20Data%20Structures%20Programs-Prentice%20Hall%20(1976).pdf)
 - [Introduction to algorithms](./books/Introduction.to.Algorithms.4th.pdf)
 - [Principles of Algorithmic Problem Solving](./books/PAPS.pdf)
+- [The algorithm design manual](./books/(Texts%20in%20Computer%20Science)%20Steven%20S.%20Skiena%20-%20The%20Algorithm%20Design%20Manual-Springer%20(2020).pdf)
 
 ## Aulas em vídeo
 
@@ -45,6 +46,8 @@ Quais conteúdos precisamos dominar:
 ### Algoritmos, estrutura de dados e outros
 
 - [Repositório de programação competitiva](https://github.com/UnBalloon/programacao-competitiva)
+- [Repositório de implementação de algoritmos](https://the-algorithms.com/)
+- [Algorithms for competitive programming](https://cp-algorithms.com/index.html)
 
 # Treino
 
