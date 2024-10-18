@@ -35,7 +35,7 @@ Quais conteúdos precisamos dominar:
 
 ### Algoritmos e estruturas de dados
 
-- [Analysis of Algorithms](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)
+- [Analysis of Algorithms](https://www.youtube.com/watch?v=dphSwq5jP1A&list=PLOtl7M3yp-DXbHTFe_w9zFPXeau28CDao)
 
 ### Matemática
 
