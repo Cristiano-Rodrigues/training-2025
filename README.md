@@ -40,6 +40,7 @@ Quais conteúdos precisamos dominar:
 ### Matemática
 
 - [Math](https://github.com/ashutoshjv661/maths-cp-syllabus)
+- [Mathematics for computer science](https://www.youtube.com/watch?v=wIq4CssPoO0&list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ&index=1)
 
 ## Outros
 
