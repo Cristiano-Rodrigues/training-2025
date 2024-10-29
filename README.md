@@ -1,9 +1,8 @@
 # AoCPC 2025
 
-This is a repository destinated to group the contents needed for the training to the AoCPC 2025
 Este é um repositório destinado a agrupar os conteúdos necessários para o treinamento para o AoCPC 2025
 
-## Requirements
+## Requisitos
 
 Quais conteúdos precisamos dominar:
 
