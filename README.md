@@ -20,12 +20,19 @@ Quais conteúdos precisamos dominar:
 
 # Materiais
 
+## Roadmaps
+
+- [Apostila, artigo no codeforces](./books/roadmap%20CodeForces.pdf)
+- [CP Guide](https://www.geeksforgeeks.org/competitive-programming-cp-handbook-with-complete-roadmap/)
+
 ## Livros
 
 ### Linguagem C++
 - [The Design and evolution of C++](./books/Bjarne%20Stroustrup%20-%20The%20Design%20and%20Evolution%20of%20C++-Addison-Wesley%20Professional%20(1994).pdf)
 
 ### Algoritmos e estruturas de dados
+- [Competitive Programmer's Handbook](./books/Competive%20Programmer~s%20Handbook.pdf)
+- [Competitive Programming 3](./books/Steven-Halim_-Felix-Halim-Competitive-Programming-3_-The-New-Lower-Bound-of-Programming-Contests-Lulu.com-_2013_%20(1).pdf)
 - [Algorithms + Data Structures = Programs](./books/(Automatic%20Computation)%20Niklaus%20Wirth%20-%20Algorithms%20+%20Data%20Structures%20Programs-Prentice%20Hall%20(1976).pdf)
 - [Introduction to algorithms](./books/Introduction.to.Algorithms.4th.pdf)
 - [Principles of Algorithmic Problem Solving](./books/PAPS.pdf)
